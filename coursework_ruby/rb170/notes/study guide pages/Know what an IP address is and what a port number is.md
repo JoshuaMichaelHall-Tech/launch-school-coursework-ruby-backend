@@ -1,0 +1,3 @@
+An IP address is a unique identifier assigned to devices on a network using the Internet Protocol. It's used for inter-network communication. There are two current versions: IPv4 (e.g., 192.168.0.1) and IPv6 (e.g., 2001:0ab7:84a3:0000:0000:9a2e:a370:7d31). IP addresses are used to direct data between devices across different networks.
+
+A port number is a 16-bit number (ranging from 0 to 65535) assigned for the purpose of multiplexing and demultiplexing. It allows a single device with one IP address to use multiple communication channels for different applications or services. While the IP address directs data to the correct device, the port number directs the traffic to the specific application or service on that device.
