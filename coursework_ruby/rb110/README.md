@@ -44,9 +44,6 @@ This course deepens understanding of Ruby's data structures and introduces more 
 - [Ruby Documentation on Collections](https://ruby-doc.org/core/Enumerable.html)
 - [Launch School's PEDAC Problem Solving Approach](https://medium.com/launch-school/solving-coding-problems-with-pedac-29141331f93f)
 
-## Personal Notes
-RB110 significantly improved my ability to work with collections and nested data structures. The structured problem-solving approach (PEDAC) became second nature, allowing me to tackle more complex problems methodically. I found the transition from simple scripts to more complex programs challenging but rewarding.
-
 ## Related Courses
 - Builds on the fundamentals from RB101
 - Prepares for object-oriented programming concepts in RB120

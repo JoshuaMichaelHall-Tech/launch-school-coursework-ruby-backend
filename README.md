@@ -1,96 +1,41 @@
-# Launch School Coursework
+# Launch School Coursework Repository
 
 ## Overview
-This repository contains my coursework, exercises, and projects from the Launch School Core Curriculum Ruby track. It serves as both a learning record and reference material for mastery-based learning of software engineering fundamentals, documenting my progression from basic programming concepts to developing full-stack web applications.
-
-## Learning Objectives
-- Master programming fundamentals with Ruby
-- Develop strong object-oriented programming skills
-- Build robust networked and database applications
-- Practice test-driven development and debugging techniques
-- Establish solid fundamentals for advanced software engineering topics
-- Create database-backed web applications
-
-## Technology Stack
-- Language: Ruby 3.0+
-- Testing: RSpec, Minitest
-- Web: Sinatra, HTTP/HTML
-- Databases: PostgreSQL, SQL
-- Other Tools: Git, Bash/Zsh
+This repository contains my coursework, exercises, solutions, and projects completed as part of the Launch School Core Curriculum. It serves as both a learning record and reference material for mastery-based learning of software engineering fundamentals.
 
 ## Course Structure
 
-### RB101 - Programming Foundations with Ruby: Basics
-- Ruby language syntax and fundamentals
-- Systematic problem-solving with pseudo-code
-- Variable scope and method arguments
-- Basic debugging and code analysis
-- Small program development
+The repository is organized by programming language tracks:
 
-### RB110 - Programming Foundations with Ruby: Intermediate
-- Advanced Ruby data structures (strings, arrays, hashes)
-- Working with blocks and iterative methods
-- PEDAC problem-solving process
-- Nested data structures
-- Building interactive command-line applications
+### Ruby Track (RB)
+- **RB101-109**: Programming Foundations with Ruby
+- **RB120-129**: Object Oriented Programming
+- **RB130-139**: Ruby Foundations: More Topics
+- **RB175**: Networked Applications
+- **RB185**: Database Applications
 
-### RB120 - Object Oriented Programming
-- Classes, objects, and inheritance
-- Encapsulation, polymorphism, and abstraction
-- Method lookup and class hierarchy
-- Modules and mixins
-- Object-oriented design and implementation
-- Collaborator objects
+### JavaScript Track (JS)
+- **JS210-211**: Fundamentals of JavaScript for Programmers
+- **JS225**: Object Oriented JavaScript
+- **JS230**: DOM and Asynchronous Programming with JavaScript
 
-### RB130 - Ruby Foundations: More Topics
-- Blocks, Procs, and lambdas
-- Closures in Ruby
-- Testing with Minitest
-- Custom iterators and collection methods
-- Symbol-to-proc conversions
-- Ruby metaprogramming concepts
+### Python Track (PY)
+- **PY100-101**: Programming & Back-end Prep with Python
+- **PY110**: Programming Foundations with Python: Intermediate
+- **PY120**: Object-Oriented Programming with Python
+- **PY130**: More Python Foundations
+- **PY175**: Networked Applications with Python
+- **PY185**: Database Applications with Python
 
-### RB175 - Networked Applications
-- HTTP protocol and request/response cycle
-- Internet infrastructure and web concepts
-- Sinatra web framework
-- ERB templating
-- Sessions and cookies for state management
-- Form handling and user input processing
-- Web application security and deployment
+### TypeScript Track (TS)
+- **TS240**: Introduction to TypeScript
 
-### RB185 - Database Applications
-- Database integration with Ruby applications
-- SQL query optimization
-- Database connection management
-- Data integrity and validation
-- Building database-backed web applications
-- PostgreSQL application integration
-- Schema design for applications
-
-## Major Projects
-
-### Procedural Programming
-- Calculator Application
-- Rock Paper Scissors Game
-- Twenty-One Card Game
-- Tic Tac Toe Game
-
-### Object-Oriented Programming
-- OO Rock Paper Scissors
-- OO Twenty-One
-- OO Tic Tac Toe
-- Custom Collection Classes
-
-### Web Development
-- Book Reading Application
-- Todo List Web Application
-- File-Based Content Management System
-
-### Database Applications
-- Expense Tracker CLI
-- Database-Backed Todo Application
-- SQL Optimization Projects
+### General Courses
+- **LS170-171**: Networking Foundations
+- **LS180-181**: Database Foundations
+- **LS202**: HTML and CSS
+- **LS215**: Computational Thinking and Problem Solving
+- **LS220**: Introduction to Data Structures and Algorithms
 
 ## Learning Approach
 This repository demonstrates my mastery-based learning approach:
@@ -101,9 +46,22 @@ This repository demonstrates my mastery-based learning approach:
 - Systematic problem-solving
 - Progressive application development
 
-## Related Repositories
-- [ruby-fundamentals](https://github.com/JoshuaMichaelHall-Tech/ruby-fundamentals) - Core Ruby concepts
-- [terminal-setup](https://github.com/JoshuaMichaelHall-Tech/terminal-setup) - Development environment configuration
+## Major Projects
+- **Ruby**: Command-line applications, OO design, web applications
+- **JavaScript**: Front-end applications, DOM manipulation, asynchronous programming
+- **Python**: Object-oriented applications, command-line tools, web applications
+- **Web Development**: HTML/CSS layouts, responsive design
+- **Databases**: SQL queries, database design, database-backed applications
+
+## Technology Stack
+- Languages: Ruby, JavaScript, Python, TypeScript
+- Web: HTML, CSS, Sinatra
+- Databases: PostgreSQL, SQL
+- Testing: RSpec, Minitest
+- Version Control: Git
+
+## Usage
+This repository is primarily for personal reference and to showcase my progress through the Launch School curriculum. Feel free to explore, but please note that the code is my own work for educational purposes.
 
 ## License
 This repository contains my personal work for Launch School assignments. Please do not copy or use this code for your own Launch School assignments. The code is shared for portfolio and learning purposes only.

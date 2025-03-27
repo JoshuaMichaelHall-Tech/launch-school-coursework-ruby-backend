@@ -45,9 +45,6 @@ This course explores advanced Ruby-specific features, particularly focusing on b
 - [Minitest Documentation](https://docs.seattlerb.org/minitest/)
 - [Launch School's Core Ruby Tools](https://launchschool.com/books/core_ruby_tools)
 
-## Personal Notes
-RB130 revealed the elegant power of Ruby's block implementation and closure system. Learning to write custom iterators helped solidify my understanding of how Ruby's built-in methods work under the hood. The introduction to testing with Minitest shifted my approach to development, encouraging me to think about edge cases and expected behaviors first.
-
 ## Related Courses
 - Builds on OOP concepts from RB120
 - Provides foundation for web development in RB175

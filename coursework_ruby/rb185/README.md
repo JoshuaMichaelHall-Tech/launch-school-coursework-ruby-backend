@@ -48,9 +48,6 @@ This course focuses on integrating databases with applications, building on the 
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [PG Gem Documentation](https://rubygems.org/gems/pg)
 
-## Personal Notes
-RB185 connected the web development skills from RB175 with the database knowledge from earlier courses. Learning to build full-stack applications with proper data persistence transformed my understanding of application architecture. The emphasis on query optimization highlighted the importance of database efficiency in application performance.
-
 ## Related Courses
 - Builds on database foundations from LS180
 - Integrates with web development concepts from RB175

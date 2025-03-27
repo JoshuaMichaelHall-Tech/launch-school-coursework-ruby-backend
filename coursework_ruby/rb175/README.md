@@ -47,9 +47,6 @@ This course covers server-side web development fundamentals, focusing on HTTP an
 - [Sinatra Documentation](http://sinatrarb.com/documentation.html)
 - [Mozilla Developer Network (MDN) Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
-## Personal Notes
-RB175 bridged the gap between Ruby programming and web development. Understanding HTTP's fundamental role in web applications provided crucial context for modern web development. Building applications from scratch without heavy frameworks helped me understand what happens "under the hood" in larger web frameworks.
-
 ## Related Courses
 - Builds on Ruby foundations from previous courses
 - Connects with database concepts in RB185

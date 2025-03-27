@@ -52,9 +52,6 @@ This course explores object-oriented programming concepts at the heart of Ruby. 
 - [Practical Object-Oriented Design in Ruby](https://www.poodr.com/) by Sandi Metz
 - [Ruby Documentation on Classes and Objects](https://ruby-doc.org/core/Class.html)
 
-## Personal Notes
-RB120 represented a significant paradigm shift in my programming journey. The transition from procedural thinking to object-oriented design required a different mental model but ultimately provided powerful tools for tackling complex problems. The concept of objects as self-contained entities with responsibilities transformed how I approach program design.
-
 ## Related Courses
 - Builds on the procedural concepts from RB110
 - Foundation for more advanced Ruby concepts in RB130
