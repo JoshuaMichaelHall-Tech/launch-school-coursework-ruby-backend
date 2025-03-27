@@ -1,7 +1,7 @@
 # Launch School Coursework
 
 ## Overview
-This repository contains my coursework, exercises, and projects from the Launch School Core Curriculum Ruby track. It serves as both a learning record and reference material for mastery-based learning of software engineering fundamentals.
+This repository contains my coursework, exercises, and projects from the Launch School Core Curriculum Ruby track. It serves as both a learning record and reference material for mastery-based learning of software engineering fundamentals, documenting my progression from basic programming concepts to developing full-stack web applications.
 
 ## Learning Objectives
 - Master programming fundamentals with Ruby
@@ -9,61 +9,88 @@ This repository contains my coursework, exercises, and projects from the Launch 
 - Build robust networked and database applications
 - Practice test-driven development and debugging techniques
 - Establish solid fundamentals for advanced software engineering topics
+- Create database-backed web applications
 
 ## Technology Stack
 - Language: Ruby 3.0+
 - Testing: RSpec, Minitest
-- Web: Sinatra
-- Databases: PostgreSQL
-- Other tools: Git, Bash/Zsh
+- Web: Sinatra, HTTP/HTML
+- Databases: PostgreSQL, SQL
+- Other Tools: Git, Bash/Zsh
 
 ## Course Structure
 
-### RB101 - Programming Foundations
-Focus on programming fundamentals using Ruby:
-- Ruby syntax and semantics
-- Problem-solving approach
-- Basic data structures
-- Procedural programming
+### RB101 - Programming Foundations with Ruby: Basics
+- Ruby language syntax and fundamentals
+- Systematic problem-solving with pseudo-code
+- Variable scope and method arguments
+- Basic debugging and code analysis
+- Small program development
 
-### RB109 - Assessment: Programming Foundations
-Assessment of programming foundations knowledge.
+### RB110 - Programming Foundations with Ruby: Intermediate
+- Advanced Ruby data structures (strings, arrays, hashes)
+- Working with blocks and iterative methods
+- PEDAC problem-solving process
+- Nested data structures
+- Building interactive command-line applications
 
 ### RB120 - Object Oriented Programming
-Object-oriented programming principles:
-- Classes and objects
-- Inheritance and polymorphism
-- Encapsulation and abstraction
-- OOP design patterns
-
-### RB129 - Assessment: Object Oriented Programming
-Assessment of object-oriented programming knowledge.
+- Classes, objects, and inheritance
+- Encapsulation, polymorphism, and abstraction
+- Method lookup and class hierarchy
+- Modules and mixins
+- Object-oriented design and implementation
+- Collaborator objects
 
 ### RB130 - Ruby Foundations: More Topics
-Advanced Ruby concepts:
 - Blocks, Procs, and lambdas
-- Closures
+- Closures in Ruby
 - Testing with Minitest
-- Core Ruby tools
-
-### RB139 - Assessment: Ruby Foundations
-Assessment of advanced Ruby foundations knowledge.
+- Custom iterators and collection methods
+- Symbol-to-proc conversions
+- Ruby metaprogramming concepts
 
 ### RB175 - Networked Applications
-Building web applications:
-- HTTP protocol
-- Rack
+- HTTP protocol and request/response cycle
+- Internet infrastructure and web concepts
 - Sinatra web framework
-- View templates and rendering
+- ERB templating
+- Sessions and cookies for state management
+- Form handling and user input processing
+- Web application security and deployment
 
 ### RB185 - Database Applications
-Working with databases:
-- SQL and PostgreSQL
-- Database design
-- Database-backed web applications
+- Database integration with Ruby applications
+- SQL query optimization
+- Database connection management
+- Data integrity and validation
+- Building database-backed web applications
+- PostgreSQL application integration
+- Schema design for applications
 
-### RB189 - Assessment: Web Development
-Final assessment for the Ruby track.
+## Major Projects
+
+### Procedural Programming
+- Calculator Application
+- Rock Paper Scissors Game
+- Twenty-One Card Game
+- Tic Tac Toe Game
+
+### Object-Oriented Programming
+- OO Rock Paper Scissors
+- OO Twenty-One
+- OO Tic Tac Toe
+- Custom Collection Classes
+
+### Web Development
+- Book Reading Application
+- Todo List Web Application
+- File-Based Content Management System
+
+### Database Applications
+- Expense Tracker CLI
+- Database-Backed Todo Application
+- SQL Optimization Projects
 
 ## Learning Approach
 This repository demonstrates my mastery-based learning approach:
@@ -71,6 +98,8 @@ This repository demonstrates my mastery-based learning approach:
 - Iterative practice and reinforcement
 - Test-driven development
 - Documentation of learning process
+- Systematic problem-solving
+- Progressive application development
 
 ## Related Repositories
 - [ruby-fundamentals](https://github.com/JoshuaMichaelHall-Tech/ruby-fundamentals) - Core Ruby concepts
