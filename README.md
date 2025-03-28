@@ -60,6 +60,27 @@ This repository demonstrates my mastery-based learning approach:
 - Testing: RSpec, Minitest
 - Version Control: Git
 
+## Related Repositories
+
+This repository contains my formal Launch School coursework. I maintain several related repositories for extended learning and personal projects:
+
+- [ruby-fundamentals](https://github.com/joshuamichaelhall/ruby-fundamentals): Extended Ruby exercises and concepts beyond Launch School curriculum
+- [python-fundamentals](https://github.com/joshuamichaelhall/python-fundamentals): Python projects and advanced explorations
+- [js-fundamentals](https://github.com/joshuamichaelhall/js-fundamentals): JavaScript projects and concept implementations
+- [python-data-analysis](https://github.com/joshuamichaelhall/python-data-analysis): Data analysis projects using Python
+- [terminal-setup](https://github.com/joshuamichaelhall/terminal-setup): My development environment configuration (Neovim/tmux)
+- [software-engineering-reference](https://github.com/joshuamichaelhall/software-engineering-reference): Comprehensive notes and references on software engineering topics
+
+## Progress Tracking
+
+| Course | Status | Completion Date |
+|--------|--------|----------------|
+| RB101 | Completed | - |
+| LS170 | In Progress | - |
+| LS180 | Not Started | - |
+| JS210 | Not Started | - |
+| PY100 | Not Started | - |
+
 ## Usage
 This repository is primarily for personal reference and to showcase my progress through the Launch School curriculum. Feel free to explore, but please note that the code is my own work for educational purposes.
 

@@ -25,6 +25,36 @@ This course explores HTTP, the protocol that powers the web. Starting with the f
 - Statelessness and session management
 - Web security fundamentals
 
+## Resources
+This course includes several supporting resources:
+- [Glossary](./resources/glossary.md) - Comprehensive list of networking terminology
+- [Reference Sheet](./resources/reference_sheet.md) - Quick reference for commands and syntax
+- [Study Guide](./resources/study_guide.md) - In-depth guide for exam preparation
+
+## Practical Skills
+- Using network diagnostic tools like ping, traceroute, and nslookup
+- Crafting HTTP requests with curl and interpreting responses
+- Analyzing network traffic and identifying issues
+- Implementing secure communication with TLS/SSL
+- Designing RESTful web services
+
+## Learning Path
+- Start with the basic concepts in the glossary
+- Practice with the commands in the reference sheet
+- Complete the exercises and projects
+- Use the study guide for review and reinforcement
+
 ## Related Courses
 - Prerequisite for LS180: Database Foundations
 - Provides foundational knowledge for all web application development courses
+
+## Progress Tracking
+- [x] Introduction to HTTP
+- [x] The Internet
+- [x] TCP & UDP
+- [ ] IP Addresses
+- [ ] DNS
+- [ ] The Web
+- [ ] HTTP
+- [ ] Security
+- [ ] Project: Build a TCP Chat Server
