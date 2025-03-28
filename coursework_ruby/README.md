@@ -1,69 +1,96 @@
-# Ruby Programming Track
+# Ruby Programming Resources
 
 ## Overview
-The Ruby track at Launch School provides a comprehensive foundation in software engineering using Ruby as the primary language. This track covers everything from basic programming concepts to building database-backed web applications.
 
-## Courses
+This repository contains comprehensive resources for learning and mastering Ruby programming. These resources cover everything from basic syntax to advanced concepts, and are designed to support programmers at all stages of their Ruby journey.
 
-### RB101: Programming Foundations with Ruby: Basics
-- **Focus**: Basic programming concepts and Ruby syntax
-- **Key Topics**: Ruby language fundamentals, problem decomposition, pseudo-code, debugging
-- **Projects**: Calculator, Rock Paper Scissors, Tic Tac Toe
-- **Skills**: Basic Ruby syntax, problem solving, imperative programming
+## Contents
 
-### RB110: Programming Foundations with Ruby: Intermediate
-- **Focus**: Working with collections and blocks
-- **Key Topics**: Data structures, iteration, PEDAC problem-solving process
-- **Projects**: Twenty-One card game, expanded Tic Tac Toe
-- **Skills**: Collection manipulation, nested data structures, structured problem solving
+### 1. Ruby Programming Master Glossary
 
-### RB120: Object Oriented Programming
-- **Focus**: OOP concepts and implementation in Ruby
-- **Key Topics**: Classes, objects, inheritance, polymorphism, encapsulation
-- **Projects**: OO Rock Paper Scissors, OO Twenty-One, OO Tic Tac Toe
-- **Skills**: Object design, relationship management, code organization
+A comprehensive glossary of Ruby terminology organized by topic areas:
+- Ruby Language Fundamentals
+- Object-Oriented Programming Concepts
+- Collections and Iteration
+- Testing and Development
+- Web Development
+- Database Concepts
 
-### RB130: Ruby Foundations: More Topics
-- **Focus**: Advanced Ruby features
-- **Key Topics**: Blocks, closures, testing with Minitest
-- **Projects**: Custom collection methods, Todo list with tests
-- **Skills**: Building custom iterators, testing, metaprogramming
+[View the Glossary](ruby-glossary.md)
 
-### RB175: Networked Applications
-- **Focus**: Server-side web development
-- **Key Topics**: HTTP, Sinatra, templating, sessions
-- **Projects**: Book reading app, Todo list app, File-based CMS
-- **Skills**: Web application architecture, state management, routing
+### 2. Ruby Commands Reference
 
-### RB185: Database Applications
-- **Focus**: Integrating databases with applications
-- **Key Topics**: PostgreSQL, database connections, SQL from applications
-- **Projects**: Expense tracker, database-backed Todo app
-- **Skills**: Database integration, query optimization, schema design
+An extensive reference guide with code examples for common Ruby programming tasks:
+- Basic Ruby Syntax
+- Methods and Blocks
+- Classes and Modules
+- Collections and Enumerable Methods
+- File Operations
+- Exception Handling
+- Testing with Minitest
+- Debugging
+- Gems and Bundler
+- Basic Rake Tasks
+- Sinatra Web Applications
+- Database Operations
+- Regular Expressions
 
-## Learning Path
-The Ruby track follows a progressive learning path:
-1. Foundation in programming basics and Ruby syntax
-2. Object-oriented design and implementation
-3. Advanced Ruby features and testing
-4. Server-side web development
-5. Database integration
+[View the Commands Reference](ruby-commands.md)
 
-## Projects
-Throughout the Ruby track, students build increasingly complex applications:
-- Command-line utilities
-- Object-oriented applications
-- Web applications with Sinatra
-- Database-backed web applications
+### 3. Ruby Programming Comprehensive Study Guide
 
-## Technical Environment
-- Ruby 2.7+
-- Sinatra web framework
-- PostgreSQL database
-- Minitest for testing
-- Git for version control
+A structured learning path for mastering Ruby programming:
+- Ruby Fundamentals
+- Object-Oriented Programming
+- Collections and Enumerable
+- Blocks, Procs, and Lambdas
+- Testing and Debugging
+- Web Development with Ruby
+- Database Integration
+- Advanced Ruby Topics
+- Study Strategies
 
-## Related Resources
-- [Ruby Documentation](https://ruby-doc.org/)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [Sinatra Documentation](http://sinatrarb.com/documentation.html)
+[View the Study Guide](ruby-study-guide.md)
+
+## How to Use These Resources
+
+### For Beginners
+
+1. Start with the **Ruby Fundamentals** section of the Study Guide
+2. Reference the Commands Reference as you practice writing code
+3. Use the Glossary to clarify unfamiliar terms
+4. Work through basic exercises applying the concepts you learn
+
+### For Intermediate Developers
+
+1. Focus on the **Object-Oriented Programming** and **Collections** sections
+2. Practice implementing custom classes and using enumerable methods
+3. Begin experimenting with testing your code
+4. Work on small projects to apply your knowledge
+
+### For Advanced Developers
+
+1. Study the advanced topics in depth
+2. Reference the Commands guide for specific syntax and methods
+3. Focus on optimization, metaprogramming, and best practices
+4. Contribute improvements to these resources
+
+## Recommended Learning Approach
+
+1. **Read**: Study the concepts in the guide
+2. **Practice**: Write code implementing what you've learned
+3. **Review**: Reference the commands and glossary when stuck
+4. **Apply**: Work on projects to solidify your understanding
+5. **Teach**: Explain concepts to others to deepen your knowledge
+
+## Contributing
+
+Contributions to improve these resources are welcome! Please feel free to submit pull requests with corrections, additions, or enhancements.
+
+## License
+
+These resources are available under the MIT License. See the LICENSE file for details.
+
+## Acknowledgments
+
+These resources are compiled from various Ruby learning materials, documentation, and community knowledge. Special thanks to the Ruby community for their ongoing contributions to making Ruby accessible and enjoyable to learn.
